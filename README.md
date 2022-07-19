@@ -1,5 +1,6 @@
-
 ### Table of Contents
+
+Author: Paolo Ferrara
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
